@@ -1,0 +1,12 @@
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\bin\Debug\SnowFlake.exe.config
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\bin\Debug\SnowFlake.exe
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\bin\Debug\SnowFlake.pdb
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.csprojResolveAssemblyReference.cache
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.Form1.resources
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.Properties.Resources.resources
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.csproj.GenerateResource.Cache
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.exe
+C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.pdb
+D:\github\SnowFlake\SnowFlake\bin\Debug\SnowFlake.exe.config
+D:\github\SnowFlake\SnowFlake\obj\Debug\SnowFlake.exe
+D:\github\SnowFlake\SnowFlake\obj\Debug\SnowFlake.pdb
