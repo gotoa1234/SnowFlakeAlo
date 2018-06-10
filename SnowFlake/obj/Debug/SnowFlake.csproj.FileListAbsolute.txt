@@ -10,3 +10,12 @@ C:\Users\cap88\Desktop\SnowFlake\SnowFlake\obj\Debug\SnowFlake.pdb
 D:\github\SnowFlake\SnowFlake\bin\Debug\SnowFlake.exe.config
 D:\github\SnowFlake\SnowFlake\obj\Debug\SnowFlake.exe
 D:\github\SnowFlake\SnowFlake\obj\Debug\SnowFlake.pdb
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\bin\Debug\SnowFlake.exe.config
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.exe
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.pdb
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\bin\Debug\SnowFlake.exe
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\bin\Debug\SnowFlake.pdb
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.csprojResolveAssemblyReference.cache
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.Form1.resources
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.Properties.Resources.resources
+D:\新增資料夾 (2)\SnowFlakeAlo\SnowFlake\obj\Debug\SnowFlake.csproj.GenerateResource.Cache

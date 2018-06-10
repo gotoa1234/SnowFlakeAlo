@@ -19,11 +19,15 @@ namespace SnowFlake
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           
+            string result = string.Empty;
+
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine(SnowFlakeAlg.GetGuid());
+                result = string.Format("{0}{1}\r\n", result, SnowFlakeAlg.GetGuid());
             }
+
+            Console.WriteLine(result);
+            textBox_Msg.Text = result;
 
         }
     }
